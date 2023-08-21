@@ -1,0 +1,36 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style>
+
+body {
+  background-image: url("https://i.ibb.co/VvtyNy5/New-Project-2-copy-3.png");
+}
+
+</style>
+<p><a href="index.html"><img src="https://i.ibb.co/CpyvbmG/New-Project-2-copy-2.png" style="width:100px;height:100px; class="center""></a></p>
+<div class="container">
+<!-- HTML Codes by Quackit.com -->
+<!DOCTYPE html>
+<title>Masquerade - Transcript</title>
+<style>
+div.container {
+background-color: #bad5ae;
+}
+div.container p {
+text-align: center;
+font-family: Courier;
+font-size: 14px;
+font-style: normal;
+font-weight: normal;
+text-decoration: none;
+text-transform: none;
+color: #000000;
+background-color: #bad5ae;
+}
+</style>
+
+<div class="container">
+  <header> <h1>RADIO OTHER<h1> </header>
+<header> <h2>EPISODE FOURTEEN: MASQUERADE<h2> </header>
+  <p>Writer, Editor, and Director: Finley Cole</p>
+<p>Voices: Finley Cole (Vikki Other)</p>
